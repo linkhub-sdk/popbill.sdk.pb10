@@ -11,3 +11,10 @@ Uses
 Requirement
 ----
 * linkhubs.sdk.pb10 ( https://github.com/linkhub-sdk/linkhub.sdk.pb10 )
+
+
+TODOS
+----
+* 문자 SDK
+* 팩스 SDK
+* 전자명세서 SDK
