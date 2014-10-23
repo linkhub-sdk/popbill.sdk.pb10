@@ -15,6 +15,4 @@ Requirement
 
 TODOS
 ----
-* 문자 SDK
-* 팩스 SDK
 * 전자명세서 SDK
