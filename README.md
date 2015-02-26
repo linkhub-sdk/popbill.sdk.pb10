@@ -1,7 +1,7 @@
 ﻿popbill.sdk.pb10
 ===============
 
-팝빌 SDK for Powerbuilder 10.5
+팝빌 SDK for Powerbuilder 10.5+
 
 Uses
 ----
@@ -13,6 +13,3 @@ Requirement
 * linkhubs.sdk.pb10 ( https://github.com/linkhub-sdk/linkhub.sdk.pb10 )
 
 
-TODOS
-----
-* 전자명세서 SDK
